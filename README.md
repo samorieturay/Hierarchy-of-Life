@@ -18,11 +18,12 @@ This project provides a Java-based implementation of a tree structure to represe
 2. Open in respective IDE (VS Code, IntelliJ etc.)
 3. Explore the Tree :D
 ## Example Tree Structure <br/>
-* Root: Life <br/>
-*   Domains: Archaea, Bacteria, Eukaryota <br/>
-*     Eukaryota Subcategories: Protists, Fungi, Plants, Animals <br/>
-*       Animals Subcategories: Chordates, Arthropods, Mollusks <br/>
-*         Chordates Subcategories: Mammals, Birds, Reptiles <br/>
+*     Root: Life <br/>
+*       Domains: Archaea, Bacteria, Eukaryota <br/>
+*         Eukaryota Subcategories: Protists, Fungi, Plants, Animals <br/>
+*           Animals Subcategories: Chordates, Arthropods, Mollusks <br/>
+*             Chordates Subcategories: Mammals, Birds, Reptiles <br/>
+Example In the Program
   ![Capture](https://github.com/user-attachments/assets/1f015872-c3fb-4fe9-994b-4844c5953992)
 ## Dependencies
 * JGraphX: The project uses the JGraphX library for visualizing the tree structure. Ensure that the JGraphX jar is included in your classpath.
