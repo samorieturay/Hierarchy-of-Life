@@ -23,7 +23,7 @@ This project provides a Java-based implementation of a tree structure to represe
 *         Eukaryota Subcategories: Protists, Fungi, Plants, Animals
 *           Animals Subcategories: Chordates, Arthropods, Mollusks
 *             Chordates Subcategories: Mammals, Birds, Reptiles
-Example In the Program
+** Example In the Program** <br/>
   ![Capture](https://github.com/user-attachments/assets/1f015872-c3fb-4fe9-994b-4844c5953992)
 ## Dependencies
 * JGraphX: The project uses the JGraphX library for visualizing the tree structure. Ensure that the JGraphX jar is included in your classpath.
